@@ -1,0 +1,35 @@
+
+Question types
+
+1. What is the _______ _________ for ________ in ________ during ________?
+     	       highest statistic     violation   location      time period
+	       lowest
+	       average
+	       top 10 
+
+Example: What is the rate of change in incidents for murder in Ontario during 2010?
+
+
+2. Which _________ has the _________ _________ for _________ in _________?
+	location	   highest    statistic	   violation	location
+	violation	   lowest		   location	time period
+			   
+			   
+
+Example: Which city has the lowest rate per 100,000 population for murder in 2000-2015?	
+
+3. Which _________; ____ or ____ has the _______ ________ for  ________ in _______?
+	 violation   		         highest statistic     violation  location
+	 location			 lowest		       location   time period
+	 							
+				        	
+				         
+Example: Which violation; child pornography or prostitution has the highest average in incidents for Nova Scotia in 2001-2009? 
+
+
+4. What is the contribution of the population of  _______ to the total incidents of  _________ in 2011?
+						 province			    violation
+
+Please select which type of question you would like to ask.
+Enter 1 for question 1, 2 for question 2, 3 for question 3 and 4 for question 4.
+

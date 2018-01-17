@@ -1,0 +1,26 @@
+1,Actual incidents
+2,"Rate per 100,000 population"
+3,Percentage change in rate
+4,Total cleared
+5,Cleared by charge
+6,Cleared otherwise
+7,Total persons charged
+9,"Total, adult charged"
+11,"Total, youth charged"
+13,"Total , youth not charged"
+8,"Rate, total persons charged per 100,000 population aged 12 and over"
+10,"Rate, adult charged per 100,000 population aged 18 years and over"
+12,"Rate, youth charged per 100,000 population aged 12 to 17"
+14,"Rate, youth not charged per 100,000 population aged 12 to 17"
+15,highest value 
+16,lowest value 
+17,average 
+18,Top 10
+,
+20,lowest rate of change for
+21,highest rate of change for
+22,city
+23,province
+24,violation
+25,year
+26,location
