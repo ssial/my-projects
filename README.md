@@ -1,4 +1,4 @@
-# perl-query-engine
+# Query Engine (Statistics Canada)
 This software is designed to find data from the crime and census data sets provided by Statistics Canada to answer four types of questions the user may have. The first type of question is directed towards users that are searching for specific statistics for specific violations and locations given a time period. For example, if a government employee was interested in knowing the highest number of incidents for homicide in Ontario during the years 2000 - 2015. This question could easily be asked using the first question type and the appropriate data could then be collected and presented as a graph of the user’s choice (scatter, line, bar).  
  
 The second type of question is designed to answer questions that are more general than the previous type. For example, with this question type the user can find out which province had the highest percentage change in rate for homicide rather than having to specify a specific location the way they did in the previous type.  
