@@ -7,7 +7,7 @@ The third type of question is intended to do comparisons between two violations 
  
 The final type of question allows the user to find out how the population of a province in Canada contributed to a specific violation in 2011. The answers are determined by using the crimes data file and the 2011 census file. Each province’s contribution to the total incidents of a crime is then outlined in a color coded bar graph. 
  
-<b>Instructions: </b>
+<b>Instructions to execute: </b>
  
 1.	Ensure that you have the following files saved in a folder before you execute the Query Engine; bar.pl, census.csv, crime.csv,  
 2.	Execute the following command: perl QueryEngine.pl census.CSV crime.csv 
